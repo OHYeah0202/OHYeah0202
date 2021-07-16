@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Press</string>
+    <string name="HeightText">Enter your height</string>
+    <string name="WeightText">Enter your weight</string>
+    <string name="button2">Back</string>
+</resources>
